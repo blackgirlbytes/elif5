@@ -1,8 +1,7 @@
-# OpenAI API Quickstart - Node.js example app
+# Explain it to me like I'm 5 - Toy app
 
-This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
+<img width="756" alt="Screen Shot 2023-03-15 at 10 47 43 PM" src="https://user-images.githubusercontent.com/22990146/225503751-47e8e4ce-87b7-4e93-8f3e-b894d4b7472b.png">
 
-![Text box that says name my pet with an icon of a dog](https://user-images.githubusercontent.com/10623307/213887080-b2bc4645-7fdb-4dbd-ae42-efce00d0dc29.png)
 
 
 ## Setup
